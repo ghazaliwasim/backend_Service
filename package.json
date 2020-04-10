@@ -1,0 +1,20 @@
+{
+  "name": "workers",
+  "version": "1.0.0",
+  "description": "an app demonstrating restful APIs with caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghazali wasim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "console": "^0.7.2",
+    "console-class": "^2.1.0",
+    "express": "^4.17.1",
+    "loglevelnext": "^3.0.1",
+    "mongoose": "^5.9.7",
+    "node-cache": "^5.1.0"
+  }
+}
